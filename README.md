@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Shane Hauck and I am currently a Junior attending St. Lawrence University majoring in Data Science and minoring in Sport Studies / Exercise Science. 
+My name is Shane Hauck and I am currently a Senior attending St. Lawrence University majoring in Data Science and minoring in Sport Studies / Exercise Science. 
 
 <!--
 **hauckshane/hauckshane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
